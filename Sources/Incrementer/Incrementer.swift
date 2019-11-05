@@ -1,4 +1,4 @@
-import Foundation
+import UIKit
 
 public extension Int {
     @discardableResult static postfix func ++(x: inout Int) -> Int {
