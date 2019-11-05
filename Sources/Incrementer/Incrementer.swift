@@ -11,3 +11,7 @@ public extension Int {
         return x
     }
 }
+
+public class TestView:UIView {
+    
+}
